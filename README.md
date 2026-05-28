@@ -18,7 +18,7 @@
 
 1\. 项目背景
 
-本项目为课程小组作业，基于提供的论文《Soil aggregates stability is evidently enhanced by super-binding of the N-terminal disordered tail of glomalin to soil minerals》、数据集 mmc6.csv，mmc5.csv(手工录入)以及复现说明文档，完成论文 Figure2、Figure3的精确复现工作。
+本项目为课程小组作业，基于提供的论文《Soil aggregates stability is evidently enhanced by super-binding of the N-terminal disordered tail of glomalin to soil minerals》、数据集 mmc6.csv，mmc5.csv以及复现说明文档，完成论文 Figure2、Figure3的精确复现工作。
 
 2\. 项目目标
 
