@@ -12,7 +12,7 @@
 
 论文全文链接：https://doi.org/10.1016/j.soilbio.2025.109908
 
-
+项目仓库链接：https://github.com/Dear-meng/glomalin_reproduce
 
 二、项目背景与目标
 
@@ -28,7 +28,7 @@
 
 （3）	保证项目可复现，多设备运行结果一致。
 
-数据及代码下载地址： https://github.com/Dear-meng/glomalin\_reproduce
+数据及代码下载地址： https://github.com/Dear-meng/glomalin_reproduce
 
 
 
