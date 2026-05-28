@@ -2,11 +2,11 @@
 
 小组名称：土壤化学与环境研究小组
 
-作业主题：复现论文《Soil aggregates stability is evidently enhanced by super-binding of the N-terminal disordered tail of glomalin to soil minerals》 Figure 2（a、b、c）和Figure 3b、3c、3d，完成数据分析全流程。
+作业主题：复现论文《Soil aggregates stability is evidently enhanced by super-binding of the N-terminal disordered tail of glomalin to soil minerals》 Figure 2a、2b、2c和Figure 3b、3c、3d，完成数据分析全流程。
 
 提交仓库：D2RS-2026spring—— https://github.com/D2RS-2026spring/
 
-小组成员：汪梦鑫2025303110071，杜艳坤2025303110018，黄灿：2025303110084，文宇佳：2025303120102
+小组成员：汪梦鑫2025303110071@Dear-meng，杜艳坤2025303110018@duyankun，黄灿：2025303110084@huangcan-1，文宇佳：2025303120102@wenyujia2003
 
 核心任务：基于论文原文、配套数据与复现要求，完成数据读取、清洗、绘图、结果解读，保证可复现、可追溯。
 
