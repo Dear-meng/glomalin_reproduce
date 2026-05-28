@@ -1,12 +1,12 @@
 一、项目基本信息
 
-课程名称：数据驱动的可重复性研究
+小组名称：土壤化学与环境研究小组
 
-作业主题：复现球囊霉素相关学术论文 Figure 2、Figure 3b、3c、3d，完成数据分析全流程。
+作业主题：复现论文《Soil aggregates stability is evidently enhanced by super-binding of the N-terminal disordered tail of glomalin to soil minerals》 Figure 2（a、b、c）和Figure 3b、3c、3d，完成数据分析全流程。
 
 提交仓库：D2RS-2026spring—— https://github.com/D2RS-2026spring/
 
-小组成员：黄灿，汪梦鑫，杜艳坤，文宇佳
+小组成员：汪梦鑫2025303110071，杜艳坤2025303110018，黄灿：2025303110084，文宇佳：2025303120102
 
 核心任务：基于论文原文、配套数据与复现要求，完成数据读取、清洗、绘图、结果解读，保证可复现、可追溯。
 
@@ -54,7 +54,7 @@ readr
 
 1\. 数据源
 
-•	原始数据：mmc6.csv
+•	原始数据：mmc5.csv,mmc6.csv
 
 •	包含矿物：GOE、MnO₂、MMT
 
@@ -74,11 +74,11 @@ readr
 
 
 
-五、数据分析与可视化（Figure2, Figure 3b、c、d 复现）
+五、数据分析与可视化（Figure2a、b、c, Figure 3b、c、d 复现）
 
 1\. 复现内容
 
-复现论文 Figure 3b、3c、3d：三种矿物在不同有机质处理下的絮凝指数柱状图。
+复现论文 Figure2a、b、c：球囊霉素对酸性土壤中土壤团粒形成与稳定性的影响和Figure 3b、3c、3d：三种矿物在不同有机质处理下的絮凝指数柱状图。
 
 2\. 复现结果
 
@@ -90,7 +90,7 @@ readr
 
 3\. 核心结论
 
-球囊霉素（Glomalin）对三种矿物均表现出极强絮凝作用，显著优于 HA、BSA 与空白对照组。
+球囊霉素（Glomalin）增加了土壤团聚体稳定性，并且对三种矿物均表现出极强絮凝作用，显著优于 HA、BSA 与空白对照组。
 
 
 
